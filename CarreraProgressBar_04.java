@@ -1,4 +1,5 @@
-package Actividad_04;
+package Actividad__04;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
